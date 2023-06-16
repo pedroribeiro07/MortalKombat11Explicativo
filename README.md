@@ -15,7 +15,7 @@ Em sua terceira tela é mostrado uma explicação sobre seu novo elenco de perso
 
 
 Quarta tela foi feita para mostrar quem são os jogadores que se destcaram em Mortal Kombat 11 competitivamente, sua foto mostra o jogador "Konqueror249", brasileiro que conseguiu destaque no jogo da NetherRealm
-![Screenshot_20230616_190743](https://github.com/pedroribeiro07/MortalKombat11Explicativo/assets/106094573/d0441af9-b753-431f-9d7e-b0d2113311b9)
+![Screenshot_20230616_191606](https://github.com/pedroribeiro07/MortalKombat11Explicativo/assets/106094573/4d23f51e-e130-4bad-98aa-144035f3c56d)
 
 
 Sua última tela é sobre o sucessor de Mortal Kombat 11 que está para ser lançado o Mortal Kombat 1, é falado da nova gameplay divulgada na Summer Gamer Fest de Mortal Kombat1, a foto mostra a capa do novo jogo. Essa tela possue também um botão que direciona o usuário para o vídeo da gameplay divulgada e um scroll para poderm visualizar toda a tela 
