@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mortal Kombat 11 explicativo</string>
+    <string name="txtMecanicas"> "Mortal Kombat 11" mantém a pegada de seus antecessores mais diretos, tanto na apresentação quanto na jogabilidade básica. Os lutadores continuam mais "pesados" em sua movimentação em comparação com outros games de luta, como "Street Fighter V", e o sistema de luta, ao menos em sua essência, pouco mudou</string>
+    <string name="txtMecanicas2">Aqui, a grande diferença é que a NetherRealm limitou um bocado a eficiência dos combos realizados por meio de botões, especialmente quando os jogadores tentam manter o adversário no ar, sem defesa, enquanto desencadeiam uma série de ataques</string>
+    <string name="txtPersonagensTitulo">Personagens</string>
+    <string name="txtPersonagens">Mortal Kombat 11 conta com um elenco enorme, composto por mais de 35 personagens icônicos da série e algumas novidades. Esse grande elenco permite que todo jogador encontre ao menos um personagem com seu estilo de luta, além de manter o jogo renovado.</string>
+    <string name="txtPersonagens2">Mortal kombat 11 possui bonecos classicos como: SCORPION, SUBZERO, JADE, KITANA, e também novos personagens como: CETRION, KOLLECTRO, GERAS</string>
+    <string name="txtMecanicas_Titulo">Mecânicas</string>
+    <string name="txtJogadores_Titulo">Jogadores</string>
+    <string name="txtJogadores">Mortal Kombat tem torneios marcados por todo o mundo, e nesses torneios alguns jogadores se destacaram como os melhores, exemplos de algum desses jogadores: "Sonic Fox", "Scar", "NinjaKilla212" e o brasileiro "Konqueror" </string>
+    <string name="txtMk1_Titulo">MortalKombat1</string>
+    <string name="txtMK1">As primeiras imagens de gameplay de Mortal Kombat 1 foram divulgadas nesta quinta-feira (08). Durante a transmissão do Summer Game Fest 2023, um dos principais eventos de games do calendário ocidental, o criador da franquia, Ed Boon, subiu ao palco para apresentar as cenas de combate, com direito aos primeiros fatalities e movimentos X-Ray.</string>
+    <string name="txtMk1.2">O trailer exibido na apresentação é relativamente longo, intercalando alguns momentos da história com as batalhas entre personagens como Johnny Cage, Kung Lao e Sub-Zero</string>
+    <string name="txtPreVenda">Pré-venda Mortal Kombat 1</string>
+</resources>
