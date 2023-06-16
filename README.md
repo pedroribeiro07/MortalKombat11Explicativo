@@ -7,6 +7,9 @@ Sua tela principal tem botões que servem para navegar entre as telas do aplicat
 Sua segunda tela tela possui uma explicação e uma foto sobre as novas mecãnicas impostas no Mortal Kombat 11
 ![Screenshot_20230616_185925](https://github.com/pedroribeiro07/MortalKombat1Explicativo/assets/106094573/fb49f0bc-1184-489d-a924-720190f1c35c)
 
+Em sua terceira tela é mostrado uma explicação sobre seu novo elenco de personagens, mostrando também o que há de novo no jogo, a foto nessa tela é  de "Geeras", um dos novos bonecos de Mortal Kombat11
+![Screenshot_20230616_190427](https://github.com/pedroribeiro07/MortalKombat11Explicativo/assets/106094573/a0339e5e-fd54-4954-8b1f-e39bd5b7ff40)
+
 
 
 
