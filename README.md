@@ -24,6 +24,12 @@ Sua última tela é sobre o sucessor de Mortal Kombat 11 que está para ser lan�
 
 Todas as telas possuem um botão no canto superior esquerdo para poder voltar para a tela anterior 
 
+
+Video com a demonstração do aplicativo e seus códigos abaixo
+
+https://www.youtube.com/watch?v=<VIDEO https://www.youtube.com/watch?v=R0RhEDwZRYw>
+https://youtu.be/<VIDEO https://www.youtube.com/watch?v=R0RhEDwZRYw>
+
 Aplicativo desenvolvido por Pedro Guilherme Camacho Ribeiro e Davi Gonzaga Ferreira 
 
 
